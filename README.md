@@ -10,7 +10,7 @@ The project has the goal to perform K-means clustering across multiple parties w
 - Hospital A and Hospital B each hold private patient records.
 - they want to cluster lung cancer patient data to extract confidential medical information.
 - A Third-party, SMPC provides facilitates the ability to perform the computation.
-- Dataset: UCI Lung cancer dataset
+- Dataset: UCI Lung cancer dataset; https://archive.ics.uci.edu/dataset/62/lung+cancer?utm_source=chatgpt.com
 
 # Protocol design
 1. Share generation
