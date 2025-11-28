@@ -1,6 +1,6 @@
 # Secure Multi-Party Computation
 
-This project implements a Secure-Multi Party Computation (SMPC) for running K-means cluster on sensitive datasets while preserving the privacy of each participants. The protocol simulates a collaboration between two hospitals jointly analyzing lung cancer patient data wihout exposing their private datasets to each other.
+This project implements a Secure-Multi Party Computation (SMPC) for running K-means cluster on sensitive datasets while preserving the privacy of each participants. The protocol simulates a collaboration between two hospitals jointly analyzing lung cancer patient data without exposing their private datasets to each other.
 
 # Project Overview
 The project has the goal to perform K-means clustering across multiple parties without revealing a new data (Individual records remain hidden, and only necessary datapoints/shares are exchanged).
